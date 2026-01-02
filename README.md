@@ -87,36 +87,7 @@ Boost your productivity with these extensions:
 | **Cmd Commands** | [Read Now](https://resources.vallarasuk.com/cmd-commands/) |
 | **Interview Question And Answers Part 11** | [Read Now](https://resources.vallarasuk.com/interview-question-and-answers-part-11/) |
 
----
-### 🗺️ Roadmaps
-| Resource Name | Link |
-| :--- | :--- |
-| **Dsa 100 Days Roadmap** | [Read Now](https://resources.vallarasuk.com/dsa-100-days-roadmap/) |
-| **Web Developer Roadmap** | [Read Now](https://resources.vallarasuk.com/web-developer-roadmap/) |
-
----
-### 📝 Cheat Sheets & PDFs
-| Resource Name | Link |
-| :--- | :--- |
-| **Puppet 4 Essentials** | [Read Now](https://resources.vallarasuk.com/puppet-4-essentials/) |
-| **Ultimate Css Cheat Sheet** | [Read Now](https://resources.vallarasuk.com/ultimate-css-cheat-sheet/) |
-| **Big Data Notes** | [Read Now](https://resources.vallarasuk.com/big-data-notes/) |
-| **Rubyonrailsnotesforprofessionals** | [Read Now](https://resources.vallarasuk.com/rubyonrailsnotesforprofessionals/) |
-| **Linuxnotesforprofessionals** | [Read Now](https://resources.vallarasuk.com/linuxnotesforprofessionals/) |
-| **Git Sheet Sheet** | [Read Now](https://resources.vallarasuk.com/git-sheet-sheet/) |
-
----
-### 💼 Interview Guides
-| Resource Name | Link |
-| :--- | :--- |
-| **Completed Interview Guide Copied** | [Read Now](https://resources.vallarasuk.com/completed-interview-guide-copied/) |
-| **Frontend Interview Questions** | [Read Now](https://resources.vallarasuk.com/frontend-interview-questions/) |
-| **Harvards Guide For Resume Writing** | [Read Now](https://resources.vallarasuk.com/harvards-guide-for-resume-writing/) |
-| **Top 50 Oops Interview Questions** | [Read Now](https://resources.vallarasuk.com/top-50-oops-interview-questions/) |
-| **Interview Qnas Cloudyml** | [Read Now](https://resources.vallarasuk.com/interview-qnas-cloudyml/) |
-| **Interview And Resume Guide** | [Read Now](https://resources.vallarasuk.com/interview-and-resume-guide/) |
-| **Interview Question And Answers Part 11** | [Read Now](https://resources.vallarasuk.com/interview-question-and-answers-part-11/) |
-
+ 
 
 ## 🤝 Contributing
 Have a great resource? Feel free to open a Pull Request!
