@@ -4,8 +4,10 @@ import xml.etree.ElementTree as ET
 # Your Sitemap URL
 SITEMAP_URL = "https://resources.vallarasuk.com/post-sitemap.xml"
 
-# 1. THE STATIC HEADER
-README_HEADER = """# 🚀 Awesome Developer Resources
+# 1. THE STATIC HEADER (Updated with Image)
+README_HEADER = """![Awesome Developer Resources](Assets/thumbnail.jpeg)
+
+# 🚀 Awesome Developer Resources
 
 A curated collection of cheat sheets, interview guides, and roadmaps for modern developers.
 **Maintained by [Vallarasu K](https://vallarasuk.com)**
