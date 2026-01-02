@@ -38,7 +38,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "🤖 Daily Resources Update: ${{ steps.date.outputs.date }}"
           committer: GitHub <noreply@github.com>
-          author: Vallarasu Bot <bot@vallarasuk.com>
+          author: Vallarasu Bot <vallarasuk143@gmail.com>
           branch: "auto-update-${{ steps.date.outputs.date }}"
           delete-branch: true
           title: "🤖 Daily Resources Update: ${{ steps.date.outputs.date }}"
