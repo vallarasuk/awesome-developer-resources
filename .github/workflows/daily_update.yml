@@ -64,7 +64,8 @@ jobs:
           subject: "✅ Resources Update Succeeded - Run #${{ github.run_number }}"
           body: "Great news! The daily resources update for ${{ steps.date.outputs.date }} completed successfully."
           to: vallarasuk143@gmail.com
-          from: "GitHub Bot <${{ secrets.EMAIL_USER }}>"
+          # IMPORTANT: 'from' matches your authenticated user to avoid spam filters
+          from: "Vallarasu Bot <${{ secrets.EMAIL_USER }}>"
           secure: true
 
       # ❌ FAILURE EMAIL
@@ -79,5 +80,5 @@ jobs:
           subject: "❌ Resources Update Failed - Run #${{ github.run_number }}"
           body: "The daily resources update failed. Please check the logs: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
           to: vallarasuk143@gmail.com
-          from: "GitHub Bot <${{ secrets.EMAIL_USER }}>"
+          from: "Vallarasu Bot <${{ secrets.EMAIL_USER }}>"
           secure: true
