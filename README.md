@@ -1,3 +1,5 @@
+![Awesome Developer Resources](Assets/thumbnail.jpeg)
+
 # 🚀 Awesome Developer Resources
 
 A curated collection of cheat sheets, interview guides, and roadmaps for modern developers.
