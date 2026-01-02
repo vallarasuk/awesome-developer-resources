@@ -1,0 +1,53 @@
+name: Update Resources Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Update Script
+        run: python update_resources.py
+
+      - name: Get Current Date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "🤖 Daily Resources Update: ${{ steps.date.outputs.date }}"
+          committer: GitHub <noreply@github.com>
+          author: Vallarasu Bot <bot@vallarasuk.com>
+          branch: "auto-update-${{ steps.date.outputs.date }}"
+          delete-branch: true
+          title: "🤖 Daily Resources Update: ${{ steps.date.outputs.date }}"
+          body: |
+            This PR was auto-generated to update the Latest Resources list.
+            - Updates `README.md` with the latest posts from the sitemap.
+
+      - name: Auto Merge Pull Request
+        if: steps.cpr.outputs.pull-request-operation == 'created'
+        run: gh pr merge "${{ steps.cpr.outputs.pull-request-number }}" --merge --auto
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
