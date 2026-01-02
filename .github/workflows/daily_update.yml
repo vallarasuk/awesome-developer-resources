@@ -51,3 +51,33 @@ jobs:
         run: gh pr merge "${{ steps.cpr.outputs.pull-request-number }}" --merge --auto
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ✅ SUCCESS EMAIL
+      - name: Send success email
+        if: ${{ success() }}
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.EMAIL_USER }}
+          password: ${{ secrets.EMAIL_PASS }}
+          subject: "✅ Resources Update Succeeded - Run #${{ github.run_number }}"
+          body: "Great news! The daily resources update for ${{ steps.date.outputs.date }} completed successfully."
+          to: vallarasuk143@gmail.com
+          from: "GitHub Bot <${{ secrets.EMAIL_USER }}>"
+          secure: true
+
+      # ❌ FAILURE EMAIL
+      - name: Send failure email
+        if: ${{ failure() }}
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.EMAIL_USER }}
+          password: ${{ secrets.EMAIL_PASS }}
+          subject: "❌ Resources Update Failed - Run #${{ github.run_number }}"
+          body: "The daily resources update failed. Please check the logs: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          to: vallarasuk143@gmail.com
+          from: "GitHub Bot <${{ secrets.EMAIL_USER }}>"
+          secure: true
