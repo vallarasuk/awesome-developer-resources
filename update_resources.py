@@ -4,8 +4,7 @@ import xml.etree.ElementTree as ET
 # Your Sitemap URL
 SITEMAP_URL = "https://resources.vallarasuk.com/post-sitemap.xml"
 
-# 1. THE STATIC HEADER (Your Profile, Links, Tools)
-# We store this inside the script so it always writes a FRESH copy.
+# 1. THE STATIC HEADER
 README_HEADER = """# 🚀 Awesome Developer Resources
 
 A curated collection of cheat sheets, interview guides, and roadmaps for modern developers.
@@ -47,6 +46,13 @@ Boost your productivity with these extensions:
 
 ---
 
+## 🔍 Quick Search (Categories)
+> Click a category to jump to that section.
+
+[📂 All Resources](#-all-resources) | [🗺️ Roadmaps](#-roadmaps) | [📝 Cheat Sheets & PDFs](#-cheat-sheets--pdfs) | [💼 Interview Guides](#-interview-guides)
+
+---
+
 ## 📚 Latest Resources (Auto-Updated)
 """
 
@@ -83,43 +89,76 @@ def get_resources():
             extracted_posts.append({'loc': loc, 'date': date_str})
 
         extracted_posts.sort(key=lambda x: x['date'], reverse=True)
-
-        markdown_output = "| Resource Name | Link |\n| :--- | :--- |\n"
-        
-        for post in extracted_posts:
-            slug = post['loc'].strip('/').split('/')[-1]
-            title = slug.replace('-', ' ').title()
-            markdown_output += f"| **{title}** | [Read Now]({post['loc']}) |\n"
-            
-        print(f"Successfully fetched {len(extracted_posts)} links.")
-        return markdown_output
+        return extracted_posts
 
     except Exception as e:
         print(f"Error fetching sitemap: {e}")
-        return None
+        return []
+
+def generate_markdown(posts):
+    # 1. Main Table (All Resources)
+    output = "### 📂 All Resources\n"
+    output += "| Resource Name | Link |\n| :--- | :--- |\n"
+    
+    for post in posts:
+        slug = post['loc'].strip('/').split('/')[-1]
+        title = slug.replace('-', ' ').title()
+        output += f"| **{title}** | [Read Now]({post['loc']}) |\n"
+
+    # 2. Category Sections (Simulated Search)
+    
+    # Filter for Roadmaps
+    output += "\n---\n### 🗺️ Roadmaps\n"
+    output += "| Resource Name | Link |\n| :--- | :--- |\n"
+    roadmaps = [p for p in posts if "roadmap" in p['loc'].lower()]
+    for post in roadmaps:
+        slug = post['loc'].strip('/').split('/')[-1]
+        title = slug.replace('-', ' ').title()
+        output += f"| **{title}** | [Read Now]({post['loc']}) |\n"
+        
+    # Filter for Cheat Sheets / Notes / PDFs
+    output += "\n---\n### 📝 Cheat Sheets & PDFs\n"
+    output += "| Resource Name | Link |\n| :--- | :--- |\n"
+    cheatsheets = [p for p in posts if any(x in p['loc'].lower() for x in ['sheet', 'notes', 'pdf', 'list', 'essential'])]
+    for post in cheatsheets:
+        slug = post['loc'].strip('/').split('/')[-1]
+        title = slug.replace('-', ' ').title()
+        output += f"| **{title}** | [Read Now]({post['loc']}) |\n"
+
+    # Filter for Interview Questions
+    output += "\n---\n### 💼 Interview Guides\n"
+    output += "| Resource Name | Link |\n| :--- | :--- |\n"
+    interviews = [p for p in posts if any(x in p['loc'].lower() for x in ['interview', 'questions', 'answers', 'guide'])]
+    for post in interviews:
+        slug = post['loc'].strip('/').split('/')[-1]
+        title = slug.replace('-', ' ').title()
+        output += f"| **{title}** | [Read Now]({post['loc']}) |\n"
+
+    return output
 
 def update_readme():
-    # 1. Get the dynamic list
-    resource_table = get_resources()
+    posts = get_resources()
     
-    if not resource_table:
+    if not posts:
         return
 
-    # 2. Combine parts: HEADER + TABLE + FOOTER
-    # We add markers just in case you want to switch back to regex later, but currently we overwrite everything.
+    # Generate the categorized tables
+    resource_tables = generate_markdown(posts)
+
+    # Combine parts: HEADER + TABLES + FOOTER
     final_content = (
         README_HEADER + 
         "\n" +
-        resource_table + 
+        resource_tables + 
         "\n" +
         README_FOOTER
     )
 
-    # 3. OVERWRITE the file completely (This fixes the duplicate bug)
+    # OVERWRITE the file
     with open("README.md", "w") as f:
         f.write(final_content)
     
-    print("✅ README completely overwritten with fresh content!")
+    print("✅ README completely overwritten with Categorized Search tables!")
 
 if __name__ == "__main__":
     update_readme()
