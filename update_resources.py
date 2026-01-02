@@ -8,13 +8,14 @@ SITEMAP_URL = "https://resources.vallarasuk.com/post-sitemap.xml"
 
 def get_resources():
     try:
+        # Fetch the sitemap
         response = requests.get(SITEMAP_URL)
         response.raise_for_status()
         
         # Parse XML
         root = ET.fromstring(response.content)
         
-        # Register namespace
+        # Register namespace (standard for WP sitemaps)
         ns = {'sitemap': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
         
         urls = root.findall('sitemap:url', ns)
@@ -31,6 +32,7 @@ def get_resources():
             else:
                 date_str = "1970-01-01T00:00:00+00:00" 
 
+            # Skip homepage
             if loc == "https://resources.vallarasuk.com/":
                 continue
 
@@ -40,7 +42,8 @@ def get_resources():
         extracted_posts.sort(key=lambda x: x['date'], reverse=True)
 
         # 3. Build Markdown Table (Top 20)
-        markdown_output = "| Resource Name | Link |\n| :--- | :--- |\n"
+        # We add an extra newline \n to ensure spacing is clean
+        markdown_output = "\n| Resource Name | Link |\n| :--- | :--- |\n"
         
         for post in extracted_posts[:20]:
             # Clean up title
@@ -64,9 +67,12 @@ def update_readme():
     with open("README.md", "r") as f:
         readme = f.read()
     
-    # Regex to find the markers
+    # ⚠️ THIS IS THE CRITICAL FIX ⚠️
+    # This regex looks specifically for the START and END comments
     pattern = r"()(.*?)()"
-    replacement = f"\\1\n{new_content}\n\\3"
+    
+    # This replaces ONLY the middle part with the new table
+    replacement = f"\\1{new_content}\\3"
     
     new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
     
