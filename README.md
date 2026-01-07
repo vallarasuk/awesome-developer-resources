@@ -53,111 +53,161 @@ Boost your productivity with these extensions:
 ### 📂 All Resources
 | Resource Name | Link |
 | :--- | :--- |
-| **Api Reference** | [Read Now](https://resources.vallarasuk.com/api-reference/) |
-| **Fullstack React Book** | [Read Now](https://resources.vallarasuk.com/fullstack-react-book/) |
-| **Es6 For Humans** | [Read Now](https://resources.vallarasuk.com/es6-for-humans/) |
+| **Javascript The Good Parts** | [Read Now](https://resources.vallarasuk.com/javascript-the-good-parts/) |
+| **Golden Rules For Coding Interviews** | [Read Now](https://resources.vallarasuk.com/golden-rules-for-coding-interviews/) |
+| **Spring Interview Questions Answers** | [Read Now](https://resources.vallarasuk.com/spring-interview-questions-answers/) |
+| **Greedybacktracking** | [Read Now](https://resources.vallarasuk.com/greedybacktracking/) |
+| **Mongodbnotesforprofessionals** | [Read Now](https://resources.vallarasuk.com/mongodbnotesforprofessionals/) |
+| **Things I Wish I Was Told In My 20S** | [Read Now](https://resources.vallarasuk.com/things-i-wish-i-was-told-in-my-20s/) |
+| **Mongodb** | [Read Now](https://resources.vallarasuk.com/mongodb/) |
+| **Java Interview Questions** | [Read Now](https://resources.vallarasuk.com/java-interview-questions/) |
+| **Osfullnotes** | [Read Now](https://resources.vallarasuk.com/osfullnotes/) |
+| **Top 50 Python Interview Questions With Answers** | [Read Now](https://resources.vallarasuk.com/top-50-python-interview-questions-with-answers/) |
+| **Sap Mm Questionnaire** | [Read Now](https://resources.vallarasuk.com/sap-mm-questionnaire/) |
+| **Best Jmeter Guide** | [Read Now](https://resources.vallarasuk.com/best-jmeter-guide/) |
+| **Unlocking The Code** | [Read Now](https://resources.vallarasuk.com/unlocking-the-code/) |
+| **Complete Js Interview Preparation** | [Read Now](https://resources.vallarasuk.com/complete-js-interview-preparation/) |
+| **Oops In C Handwritten** | [Read Now](https://resources.vallarasuk.com/oops-in-c-handwritten/) |
+| **Learn Powerbi Pdf** | [Read Now](https://resources.vallarasuk.com/learn-powerbi-pdf/) |
+| **Fluttertutorial** | [Read Now](https://resources.vallarasuk.com/fluttertutorial/) |
+| **Mastering Chef** | [Read Now](https://resources.vallarasuk.com/mastering-chef/) |
+| **Phpcookbook** | [Read Now](https://resources.vallarasuk.com/phpcookbook/) |
+| **Awscertoverivew** | [Read Now](https://resources.vallarasuk.com/awscertoverivew/) |
+| **Bootstrap Programming Cookbook** | [Read Now](https://resources.vallarasuk.com/bootstrap-programming-cookbook/) |
+| **Devops Interview Questions And Answers** | [Read Now](https://resources.vallarasuk.com/devops-interview-questions-and-answers/) |
+| **Deploying Rails With Docker Kubernetes And Ecs** | [Read Now](https://resources.vallarasuk.com/deploying-rails-with-docker-kubernetes-and-ecs/) |
+| **Sqlcheatsheetfordatascience** | [Read Now](https://resources.vallarasuk.com/sqlcheatsheetfordatascience/) |
+| **Extending Jenkins** | [Read Now](https://resources.vallarasuk.com/extending-jenkins/) |
+| **Trees** | [Read Now](https://resources.vallarasuk.com/trees/) |
+| **Google Interview Guide** | [Read Now](https://resources.vallarasuk.com/google-interview-guide/) |
+| **Js Interview Questions** | [Read Now](https://resources.vallarasuk.com/js-interview-questions/) |
+| **Top React Interview Questions And Answers** | [Read Now](https://resources.vallarasuk.com/top-react-interview-questions-and-answers/) |
+| **Cpptutorial** | [Read Now](https://resources.vallarasuk.com/cpptutorial/) |
+| **Introrecursion** | [Read Now](https://resources.vallarasuk.com/introrecursion/) |
+| **300 Companies Compensation For Freshers In India 2023** | [Read Now](https://resources.vallarasuk.com/300-companies-compensation-for-freshers-in-india-2023/) |
+| **Oops Important Interview Question** | [Read Now](https://resources.vallarasuk.com/oops-important-interview-question/) |
+| **Linked List Sample Program 1Docx** | [Read Now](https://resources.vallarasuk.com/linked-list-sample-program-1docx/) |
+| **C Interview Series** | [Read Now](https://resources.vallarasuk.com/c-interview-series/) |
+| **Learning Chef** | [Read Now](https://resources.vallarasuk.com/learning-chef/) |
+| **Chef Essentials** | [Read Now](https://resources.vallarasuk.com/chef-essentials/) |
+| **Encapsulation Binary Programtype 2Docx** | [Read Now](https://resources.vallarasuk.com/encapsulation-binary-programtype-2docx/) |
+| **Time Space Complexity** | [Read Now](https://resources.vallarasuk.com/time-space-complexity/) |
+| **Javascript The Definitive Guide 6Th Edition** | [Read Now](https://resources.vallarasuk.com/javascript-the-definitive-guide-6th-edition/) |
+| **Arraysearching** | [Read Now](https://resources.vallarasuk.com/arraysearching/) |
+| **Reactjs** | [Read Now](https://resources.vallarasuk.com/reactjs/) |
+| **Phptutorial** | [Read Now](https://resources.vallarasuk.com/phptutorial/) |
+| **Programming Javascript Applications** | [Read Now](https://resources.vallarasuk.com/programming-javascript-applications/) |
+| **How To Code In Reactjs** | [Read Now](https://resources.vallarasuk.com/how-to-code-in-reactjs/) |
+| **Interview Preparation Guide** | [Read Now](https://resources.vallarasuk.com/interview-preparation-guide/) |
+| **Object Oriented Analysis And Design For Information Systems** | [Read Now](https://resources.vallarasuk.com/object-oriented-analysis-and-design-for-information-systems/) |
+| **Possible Sdlc Interview Questionsdocx** | [Read Now](https://resources.vallarasuk.com/possible-sdlc-interview-questionsdocx/) |
+| **C Interview Guide** | [Read Now](https://resources.vallarasuk.com/c-interview-guide/) |
+| **Git Study Materials** | [Read Now](https://resources.vallarasuk.com/git-study-materials/) |
+| **Best Resume Building Sites** | [Read Now](https://resources.vallarasuk.com/best-resume-building-sites/) |
+| **Learning Puppet 4** | [Read Now](https://resources.vallarasuk.com/learning-puppet-4/) |
+| **Chef Infrastructure Automation Cookbook Second Edition** | [Read Now](https://resources.vallarasuk.com/chef-infrastructure-automation-cookbook-second-edition/) |
+| **Puppet For Containerization** | [Read Now](https://resources.vallarasuk.com/puppet-for-containerization/) |
+| **Interview Questions Oops Dbms Os Cn Hr** | [Read Now](https://resources.vallarasuk.com/interview-questions-oops-dbms-os-cn-hr/) |
 | **Data Structures And Algorithms** | [Read Now](https://resources.vallarasuk.com/data-structures-and-algorithms/) |
 | **Infosysveryimportant** | [Read Now](https://resources.vallarasuk.com/infosysveryimportant/) |
-| **Interview Questions Oops Dbms Os Cn Hr** | [Read Now](https://resources.vallarasuk.com/interview-questions-oops-dbms-os-cn-hr/) |
-| **Ml Interview Questions And Answers** | [Read Now](https://resources.vallarasuk.com/ml-interview-questions-and-answers/) |
-| **Puppet For Containerization** | [Read Now](https://resources.vallarasuk.com/puppet-for-containerization/) |
-| **Flutter Tutorial** | [Read Now](https://resources.vallarasuk.com/flutter-tutorial/) |
-| **Chef Infrastructure Automation Cookbook Second Edition** | [Read Now](https://resources.vallarasuk.com/chef-infrastructure-automation-cookbook-second-edition/) |
-| **Possible Arrays And Matrix Problemsdocx** | [Read Now](https://resources.vallarasuk.com/possible-arrays-and-matrix-problemsdocx/) |
-| **Learning Puppet 4** | [Read Now](https://resources.vallarasuk.com/learning-puppet-4/) |
-| **Top Oops Questions** | [Read Now](https://resources.vallarasuk.com/top-oops-questions/) |
-| **Best Resume Building Sites** | [Read Now](https://resources.vallarasuk.com/best-resume-building-sites/) |
-| **Jenkins Qa** | [Read Now](https://resources.vallarasuk.com/jenkins-qa/) |
-| **Java Interview Questions Interview** | [Read Now](https://resources.vallarasuk.com/java-interview-questions-interview/) |
+| **Fullstack React Book** | [Read Now](https://resources.vallarasuk.com/fullstack-react-book/) |
+| **Es6 For Humans** | [Read Now](https://resources.vallarasuk.com/es6-for-humans/) |
+| **Api Reference** | [Read Now](https://resources.vallarasuk.com/api-reference/) |
+| **Possible Multithreading Interview Questionsdocx** | [Read Now](https://resources.vallarasuk.com/possible-multithreading-interview-questionsdocx/) |
+| **Cpp Notes For Professionals** | [Read Now](https://resources.vallarasuk.com/cpp-notes-for-professionals/) |
 | **Js Interview Qa 2** | [Read Now](https://resources.vallarasuk.com/js-interview-qa-2/) |
 | **Know All Api Terms In 7 Minutes** | [Read Now](https://resources.vallarasuk.com/know-all-api-terms-in-7-minutes/) |
-| **Cpp Notes For Professionals** | [Read Now](https://resources.vallarasuk.com/cpp-notes-for-professionals/) |
-| **Possible Multithreading Interview Questionsdocx** | [Read Now](https://resources.vallarasuk.com/possible-multithreading-interview-questionsdocx/) |
+| **Jenkins Qa** | [Read Now](https://resources.vallarasuk.com/jenkins-qa/) |
+| **Java Interview Questions Interview** | [Read Now](https://resources.vallarasuk.com/java-interview-questions-interview/) |
+| **Top Oops Questions** | [Read Now](https://resources.vallarasuk.com/top-oops-questions/) |
+| **Flutter Tutorial** | [Read Now](https://resources.vallarasuk.com/flutter-tutorial/) |
+| **Possible Arrays And Matrix Problemsdocx** | [Read Now](https://resources.vallarasuk.com/possible-arrays-and-matrix-problemsdocx/) |
+| **Ml Interview Questions And Answers** | [Read Now](https://resources.vallarasuk.com/ml-interview-questions-and-answers/) |
+| **Build Your Api With Spring** | [Read Now](https://resources.vallarasuk.com/build-your-api-with-spring/) |
+| **Handwritten Notesaz 900** | [Read Now](https://resources.vallarasuk.com/handwritten-notesaz-900/) |
+| **Networking Interview Questions** | [Read Now](https://resources.vallarasuk.com/networking-interview-questions/) |
+| **Javascript Interview Question** | [Read Now](https://resources.vallarasuk.com/javascript-interview-question/) |
+| **Kafka With Spring Boot** | [Read Now](https://resources.vallarasuk.com/kafka-with-spring-boot/) |
 | **Top 50 React Js Interview Questions And Answers** | [Read Now](https://resources.vallarasuk.com/top-50-react-js-interview-questions-and-answers/) |
+| **Data Fetching In Nextjs** | [Read Now](https://resources.vallarasuk.com/data-fetching-in-nextjs/) |
 | **Records** | [Read Now](https://resources.vallarasuk.com/records/) |
 | **Dsa 30 Days** | [Read Now](https://resources.vallarasuk.com/dsa-30-days/) |
-| **Data Fetching In Nextjs** | [Read Now](https://resources.vallarasuk.com/data-fetching-in-nextjs/) |
 | **Exceladvancedtrainingpacket** | [Read Now](https://resources.vallarasuk.com/exceladvancedtrainingpacket/) |
 | **Api Cheat Sheet** | [Read Now](https://resources.vallarasuk.com/api-cheat-sheet/) |
 | **Object Oriented Programming In C** | [Read Now](https://resources.vallarasuk.com/object-oriented-programming-in-c/) |
 | **Ats Cv Templates** | [Read Now](https://resources.vallarasuk.com/ats-cv-templates/) |
-| **The Road To Learn React** | [Read Now](https://resources.vallarasuk.com/the-road-to-learn-react/) |
 | **Top 75 Node Js Questions** | [Read Now](https://resources.vallarasuk.com/top-75-node-js-questions/) |
 | **Wipro Elite Eng Mca Syllabus And Pattern** | [Read Now](https://resources.vallarasuk.com/wipro-elite-eng-mca-syllabus-and-pattern/) |
-| **Javascript Interview Preparation Materials** | [Read Now](https://resources.vallarasuk.com/javascript-interview-preparation-materials/) |
+| **The Road To Learn React** | [Read Now](https://resources.vallarasuk.com/the-road-to-learn-react/) |
 | **Striver Recursion Notes** | [Read Now](https://resources.vallarasuk.com/striver-recursion-notes/) |
-| **Javascript Notes** | [Read Now](https://resources.vallarasuk.com/javascript-notes/) |
-| **Javascript Interview Question** | [Read Now](https://resources.vallarasuk.com/javascript-interview-question/) |
+| **Javascript Interview Preparation Materials** | [Read Now](https://resources.vallarasuk.com/javascript-interview-preparation-materials/) |
 | **Pro Apache Phoenix** | [Read Now](https://resources.vallarasuk.com/pro-apache-phoenix/) |
-| **Kafka With Spring Boot** | [Read Now](https://resources.vallarasuk.com/kafka-with-spring-boot/) |
-| **Networking Interview Questions** | [Read Now](https://resources.vallarasuk.com/networking-interview-questions/) |
-| **Handwritten Notesaz 900** | [Read Now](https://resources.vallarasuk.com/handwritten-notesaz-900/) |
-| **Build Your Api With Spring** | [Read Now](https://resources.vallarasuk.com/build-your-api-with-spring/) |
+| **Javascript Notes** | [Read Now](https://resources.vallarasuk.com/javascript-notes/) |
 | **Encapsulation Binary Programtype 1Docx** | [Read Now](https://resources.vallarasuk.com/encapsulation-binary-programtype-1docx/) |
 | **Iot Lecturenoteseie** | [Read Now](https://resources.vallarasuk.com/iot-lecturenoteseie/) |
-| **Top Git Interview Questions** | [Read Now](https://resources.vallarasuk.com/top-git-interview-questions/) |
 | **Unix Linux Microcheat Book** | [Read Now](https://resources.vallarasuk.com/unix-linux-microcheat-book/) |
-| **Mongodb Handbook** | [Read Now](https://resources.vallarasuk.com/mongodb-handbook/) |
+| **Top Git Interview Questions** | [Read Now](https://resources.vallarasuk.com/top-git-interview-questions/) |
 | **Dp On Grids** | [Read Now](https://resources.vallarasuk.com/dp-on-grids/) |
 | **React 18 Design Patterns And Best Practices** | [Read Now](https://resources.vallarasuk.com/react-18-design-patterns-and-best-practices/) |
-| **Statistics** | [Read Now](https://resources.vallarasuk.com/statistics/) |
+| **Mongodb Handbook** | [Read Now](https://resources.vallarasuk.com/mongodb-handbook/) |
 | **Git** | [Read Now](https://resources.vallarasuk.com/git/) |
+| **Statistics** | [Read Now](https://resources.vallarasuk.com/statistics/) |
+| **Python Interview Questions** | [Read Now](https://resources.vallarasuk.com/python-interview-questions/) |
 | **Javascript Interview Questions And Answers Pdf Free 1** | [Read Now](https://resources.vallarasuk.com/javascript-interview-questions-and-answers-pdf-free-1/) |
 | **Front End Fundamentals** | [Read Now](https://resources.vallarasuk.com/front-end-fundamentals/) |
-| **Python Interview Questions** | [Read Now](https://resources.vallarasuk.com/python-interview-questions/) |
 | **Rubynotesforprofessionals** | [Read Now](https://resources.vallarasuk.com/rubynotesforprofessionals/) |
 | **Operatingsystem** | [Read Now](https://resources.vallarasuk.com/operatingsystem/) |
 | **Elixir In Action** | [Read Now](https://resources.vallarasuk.com/elixir-in-action/) |
+| **Css Interview Questions** | [Read Now](https://resources.vallarasuk.com/css-interview-questions/) |
 | **Jenkins** | [Read Now](https://resources.vallarasuk.com/jenkins/) |
 | **Cp** | [Read Now](https://resources.vallarasuk.com/cp/) |
-| **Css Interview Questions** | [Read Now](https://resources.vallarasuk.com/css-interview-questions/) |
 | **Compvisnotes** | [Read Now](https://resources.vallarasuk.com/compvisnotes/) |
 | **Frontend Interview Question** | [Read Now](https://resources.vallarasuk.com/frontend-interview-question/) |
-| **Powerful Skills** | [Read Now](https://resources.vallarasuk.com/powerful-skills/) |
 | **Html5 Notes** | [Read Now](https://resources.vallarasuk.com/html5-notes/) |
-| **Docker Q A** | [Read Now](https://resources.vallarasuk.com/docker-q-a/) |
+| **Powerful Skills** | [Read Now](https://resources.vallarasuk.com/powerful-skills/) |
 | **Api Quick Reference** | [Read Now](https://resources.vallarasuk.com/api-quick-reference/) |
 | **Java Coding Interview Questions With Answer** | [Read Now](https://resources.vallarasuk.com/java-coding-interview-questions-with-answer/) |
-| **Complete Javascript Notes** | [Read Now](https://resources.vallarasuk.com/complete-javascript-notes/) |
+| **Docker Q A** | [Read Now](https://resources.vallarasuk.com/docker-q-a/) |
 | **Coding Interview Must Do Questions** | [Read Now](https://resources.vallarasuk.com/coding-interview-must-do-questions/) |
+| **Complete Javascript Notes** | [Read Now](https://resources.vallarasuk.com/complete-javascript-notes/) |
+| **Javascript Handwritten Notes** | [Read Now](https://resources.vallarasuk.com/javascript-handwritten-notes/) |
 | **60 Commonly Interview Questions And Answers** | [Read Now](https://resources.vallarasuk.com/60-commonly-interview-questions-and-answers/) |
 | **500 Manual Testing Interview Questions Answer Set** | [Read Now](https://resources.vallarasuk.com/500-manual-testing-interview-questions-answer-set/) |
-| **Javascript Handwritten Notes** | [Read Now](https://resources.vallarasuk.com/javascript-handwritten-notes/) |
+| **Tricky Interview Questions Swipe** | [Read Now](https://resources.vallarasuk.com/tricky-interview-questions-swipe/) |
 | **C Language Notes** | [Read Now](https://resources.vallarasuk.com/c-language-notes/) |
 | **C Notes** | [Read Now](https://resources.vallarasuk.com/c-notes/) |
-| **Tricky Interview Questions Swipe** | [Read Now](https://resources.vallarasuk.com/tricky-interview-questions-swipe/) |
 | **Reactnativenotesforprofessionals** | [Read Now](https://resources.vallarasuk.com/reactnativenotesforprofessionals/) |
-| **Tcs Sqlinterview Question And Answer** | [Read Now](https://resources.vallarasuk.com/tcs-sqlinterview-question-and-answer/) |
 | **Fullstack Mern Premium Batch** | [Read Now](https://resources.vallarasuk.com/fullstack-mern-premium-batch/) |
-| **100 Aptitude Trick** | [Read Now](https://resources.vallarasuk.com/100-aptitude-trick/) |
+| **Tcs Sqlinterview Question And Answer** | [Read Now](https://resources.vallarasuk.com/tcs-sqlinterview-question-and-answer/) |
 | **Ml Cheatsheet** | [Read Now](https://resources.vallarasuk.com/ml-cheatsheet/) |
 | **Curious Freaks Coding Sheet Google Sheets** | [Read Now](https://resources.vallarasuk.com/curious-freaks-coding-sheet-google-sheets/) |
+| **100 Aptitude Trick** | [Read Now](https://resources.vallarasuk.com/100-aptitude-trick/) |
 | **Systems Design Roadmap** | [Read Now](https://resources.vallarasuk.com/systems-design-roadmap/) |
-| **Data Cleaning** | [Read Now](https://resources.vallarasuk.com/data-cleaning/) |
 | **Angularjstutorial** | [Read Now](https://resources.vallarasuk.com/angularjstutorial/) |
-| **Hibernate Overview Notes** | [Read Now](https://resources.vallarasuk.com/hibernate-overview-notes/) |
+| **Data Cleaning** | [Read Now](https://resources.vallarasuk.com/data-cleaning/) |
 | **Touch Interview Questions** | [Read Now](https://resources.vallarasuk.com/touch-interview-questions/) |
+| **Hibernate Overview Notes** | [Read Now](https://resources.vallarasuk.com/hibernate-overview-notes/) |
+| **Puppet 4 Essentials** | [Read Now](https://resources.vallarasuk.com/puppet-4-essentials/) |
 | **Erlang And Elixir For Imperative Programmers** | [Read Now](https://resources.vallarasuk.com/erlang-and-elixir-for-imperative-programmers/) |
 | **Dsa 100 Days Roadmap** | [Read Now](https://resources.vallarasuk.com/dsa-100-days-roadmap/) |
-| **Puppet 4 Essentials** | [Read Now](https://resources.vallarasuk.com/puppet-4-essentials/) |
+| **Completed Interview Guide Copied** | [Read Now](https://resources.vallarasuk.com/completed-interview-guide-copied/) |
 | **Stacks** | [Read Now](https://resources.vallarasuk.com/stacks/) |
 | **Ui Technologies** | [Read Now](https://resources.vallarasuk.com/ui-technologies/) |
-| **Completed Interview Guide Copied** | [Read Now](https://resources.vallarasuk.com/completed-interview-guide-copied/) |
 | **Harvards Guide For Resume Writing** | [Read Now](https://resources.vallarasuk.com/harvards-guide-for-resume-writing/) |
 | **Graphs** | [Read Now](https://resources.vallarasuk.com/graphs/) |
 | **Python Tools** | [Read Now](https://resources.vallarasuk.com/python-tools/) |
 | **Frontend Interview Questions** | [Read Now](https://resources.vallarasuk.com/frontend-interview-questions/) |
-| **Kubernetes** | [Read Now](https://resources.vallarasuk.com/kubernetes/) |
 | **Big Data Notes** | [Read Now](https://resources.vallarasuk.com/big-data-notes/) |
-| **Hashing** | [Read Now](https://resources.vallarasuk.com/hashing/) |
 | **Ultimate Css Cheat Sheet** | [Read Now](https://resources.vallarasuk.com/ultimate-css-cheat-sheet/) |
+| **Kubernetes** | [Read Now](https://resources.vallarasuk.com/kubernetes/) |
+| **Hashing** | [Read Now](https://resources.vallarasuk.com/hashing/) |
 | **Top 10 Machine Learning Algorithms** | [Read Now](https://resources.vallarasuk.com/top-10-machine-learning-algorithms/) |
 | **Master Recursion In Dsa In 10 Days** | [Read Now](https://resources.vallarasuk.com/master-recursion-in-dsa-in-10-days/) |
-| **Cmd Commands** | [Read Now](https://resources.vallarasuk.com/cmd-commands/) |
 | **Interview Question And Answers Part 11** | [Read Now](https://resources.vallarasuk.com/interview-question-and-answers-part-11/) |
+| **Cmd Commands** | [Read Now](https://resources.vallarasuk.com/cmd-commands/) |
+| **Leetcode Probledm Blind 75** | [Read Now](https://resources.vallarasuk.com/leetcode-probledm-blind-75/) |
 | **Jira For Beginners** | [Read Now](https://resources.vallarasuk.com/jira-for-beginners/) |
 | **Git Sheet Sheet** | [Read Now](https://resources.vallarasuk.com/git-sheet-sheet/) |
-| **Leetcode Probledm Blind 75** | [Read Now](https://resources.vallarasuk.com/leetcode-probledm-blind-75/) |
 | **Python Programming For Beginners 2024** | [Read Now](https://resources.vallarasuk.com/python-programming-for-beginners-2024/) |
 | **Solutions Of Leetcode Problems** | [Read Now](https://resources.vallarasuk.com/solutions-of-leetcode-problems/) |
 | **Mern Full Stack** | [Read Now](https://resources.vallarasuk.com/mern-full-stack/) |
@@ -168,10 +218,10 @@ Boost your productivity with these extensions:
 | **Interview Qnas Cloudyml** | [Read Now](https://resources.vallarasuk.com/interview-qnas-cloudyml/) |
 | **Rubyonrailsnotesforprofessionals** | [Read Now](https://resources.vallarasuk.com/rubyonrailsnotesforprofessionals/) |
 | **Top 50 Oops Interview Questions** | [Read Now](https://resources.vallarasuk.com/top-50-oops-interview-questions/) |
-| **Interview And Resume Guide** | [Read Now](https://resources.vallarasuk.com/interview-and-resume-guide/) |
 | **Nodejs Best Practices** | [Read Now](https://resources.vallarasuk.com/nodejs-best-practices/) |
-| **20 Coding Patterns** | [Read Now](https://resources.vallarasuk.com/20-coding-patterns/) |
+| **Interview And Resume Guide** | [Read Now](https://resources.vallarasuk.com/interview-and-resume-guide/) |
 | **Linuxnotesforprofessionals** | [Read Now](https://resources.vallarasuk.com/linuxnotesforprofessionals/) |
+| **20 Coding Patterns** | [Read Now](https://resources.vallarasuk.com/20-coding-patterns/) |
 | **Ml** | [Read Now](https://resources.vallarasuk.com/ml/) |
 
 ---
@@ -186,11 +236,17 @@ Boost your productivity with these extensions:
 ### 📝 Cheat Sheets & PDFs
 | Resource Name | Link |
 | :--- | :--- |
+| **Mongodbnotesforprofessionals** | [Read Now](https://resources.vallarasuk.com/mongodbnotesforprofessionals/) |
+| **Osfullnotes** | [Read Now](https://resources.vallarasuk.com/osfullnotes/) |
+| **Learn Powerbi Pdf** | [Read Now](https://resources.vallarasuk.com/learn-powerbi-pdf/) |
+| **Sqlcheatsheetfordatascience** | [Read Now](https://resources.vallarasuk.com/sqlcheatsheetfordatascience/) |
+| **Linked List Sample Program 1Docx** | [Read Now](https://resources.vallarasuk.com/linked-list-sample-program-1docx/) |
+| **Chef Essentials** | [Read Now](https://resources.vallarasuk.com/chef-essentials/) |
 | **Cpp Notes For Professionals** | [Read Now](https://resources.vallarasuk.com/cpp-notes-for-professionals/) |
+| **Handwritten Notesaz 900** | [Read Now](https://resources.vallarasuk.com/handwritten-notesaz-900/) |
 | **Api Cheat Sheet** | [Read Now](https://resources.vallarasuk.com/api-cheat-sheet/) |
 | **Striver Recursion Notes** | [Read Now](https://resources.vallarasuk.com/striver-recursion-notes/) |
 | **Javascript Notes** | [Read Now](https://resources.vallarasuk.com/javascript-notes/) |
-| **Handwritten Notesaz 900** | [Read Now](https://resources.vallarasuk.com/handwritten-notesaz-900/) |
 | **Iot Lecturenoteseie** | [Read Now](https://resources.vallarasuk.com/iot-lecturenoteseie/) |
 | **Javascript Interview Questions And Answers Pdf Free 1** | [Read Now](https://resources.vallarasuk.com/javascript-interview-questions-and-answers-pdf-free-1/) |
 | **Rubynotesforprofessionals** | [Read Now](https://resources.vallarasuk.com/rubynotesforprofessionals/) |
@@ -215,20 +271,36 @@ Boost your productivity with these extensions:
 ### 💼 Interview Guides
 | Resource Name | Link |
 | :--- | :--- |
+| **Golden Rules For Coding Interviews** | [Read Now](https://resources.vallarasuk.com/golden-rules-for-coding-interviews/) |
+| **Spring Interview Questions Answers** | [Read Now](https://resources.vallarasuk.com/spring-interview-questions-answers/) |
+| **Java Interview Questions** | [Read Now](https://resources.vallarasuk.com/java-interview-questions/) |
+| **Top 50 Python Interview Questions With Answers** | [Read Now](https://resources.vallarasuk.com/top-50-python-interview-questions-with-answers/) |
+| **Best Jmeter Guide** | [Read Now](https://resources.vallarasuk.com/best-jmeter-guide/) |
+| **Complete Js Interview Preparation** | [Read Now](https://resources.vallarasuk.com/complete-js-interview-preparation/) |
+| **Devops Interview Questions And Answers** | [Read Now](https://resources.vallarasuk.com/devops-interview-questions-and-answers/) |
+| **Google Interview Guide** | [Read Now](https://resources.vallarasuk.com/google-interview-guide/) |
+| **Js Interview Questions** | [Read Now](https://resources.vallarasuk.com/js-interview-questions/) |
+| **Top React Interview Questions And Answers** | [Read Now](https://resources.vallarasuk.com/top-react-interview-questions-and-answers/) |
+| **Oops Important Interview Question** | [Read Now](https://resources.vallarasuk.com/oops-important-interview-question/) |
+| **C Interview Series** | [Read Now](https://resources.vallarasuk.com/c-interview-series/) |
+| **Javascript The Definitive Guide 6Th Edition** | [Read Now](https://resources.vallarasuk.com/javascript-the-definitive-guide-6th-edition/) |
+| **Interview Preparation Guide** | [Read Now](https://resources.vallarasuk.com/interview-preparation-guide/) |
+| **Possible Sdlc Interview Questionsdocx** | [Read Now](https://resources.vallarasuk.com/possible-sdlc-interview-questionsdocx/) |
+| **C Interview Guide** | [Read Now](https://resources.vallarasuk.com/c-interview-guide/) |
 | **Interview Questions Oops Dbms Os Cn Hr** | [Read Now](https://resources.vallarasuk.com/interview-questions-oops-dbms-os-cn-hr/) |
-| **Ml Interview Questions And Answers** | [Read Now](https://resources.vallarasuk.com/ml-interview-questions-and-answers/) |
-| **Top Oops Questions** | [Read Now](https://resources.vallarasuk.com/top-oops-questions/) |
-| **Java Interview Questions Interview** | [Read Now](https://resources.vallarasuk.com/java-interview-questions-interview/) |
-| **Js Interview Qa 2** | [Read Now](https://resources.vallarasuk.com/js-interview-qa-2/) |
 | **Possible Multithreading Interview Questionsdocx** | [Read Now](https://resources.vallarasuk.com/possible-multithreading-interview-questionsdocx/) |
+| **Js Interview Qa 2** | [Read Now](https://resources.vallarasuk.com/js-interview-qa-2/) |
+| **Java Interview Questions Interview** | [Read Now](https://resources.vallarasuk.com/java-interview-questions-interview/) |
+| **Top Oops Questions** | [Read Now](https://resources.vallarasuk.com/top-oops-questions/) |
+| **Ml Interview Questions And Answers** | [Read Now](https://resources.vallarasuk.com/ml-interview-questions-and-answers/) |
+| **Networking Interview Questions** | [Read Now](https://resources.vallarasuk.com/networking-interview-questions/) |
+| **Javascript Interview Question** | [Read Now](https://resources.vallarasuk.com/javascript-interview-question/) |
 | **Top 50 React Js Interview Questions And Answers** | [Read Now](https://resources.vallarasuk.com/top-50-react-js-interview-questions-and-answers/) |
 | **Top 75 Node Js Questions** | [Read Now](https://resources.vallarasuk.com/top-75-node-js-questions/) |
 | **Javascript Interview Preparation Materials** | [Read Now](https://resources.vallarasuk.com/javascript-interview-preparation-materials/) |
-| **Javascript Interview Question** | [Read Now](https://resources.vallarasuk.com/javascript-interview-question/) |
-| **Networking Interview Questions** | [Read Now](https://resources.vallarasuk.com/networking-interview-questions/) |
 | **Top Git Interview Questions** | [Read Now](https://resources.vallarasuk.com/top-git-interview-questions/) |
-| **Javascript Interview Questions And Answers Pdf Free 1** | [Read Now](https://resources.vallarasuk.com/javascript-interview-questions-and-answers-pdf-free-1/) |
 | **Python Interview Questions** | [Read Now](https://resources.vallarasuk.com/python-interview-questions/) |
+| **Javascript Interview Questions And Answers Pdf Free 1** | [Read Now](https://resources.vallarasuk.com/javascript-interview-questions-and-answers-pdf-free-1/) |
 | **Css Interview Questions** | [Read Now](https://resources.vallarasuk.com/css-interview-questions/) |
 | **Frontend Interview Question** | [Read Now](https://resources.vallarasuk.com/frontend-interview-question/) |
 | **Java Coding Interview Questions With Answer** | [Read Now](https://resources.vallarasuk.com/java-coding-interview-questions-with-answer/) |
